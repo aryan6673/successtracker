@@ -1,26 +1,71 @@
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+# SuccessTracker  
 
-## Getting Started
+**SuccessTracker** is a comprehensive web application designed specifically for **JEE aspirants** to plan, track, and achieve their preparation goals efficiently. Built using **Next.js**, **React**, and **TailwindCSS**, the tool ensures a smooth and aesthetic user experience.  
 
-First, run the development server:
+Whether you're focusing on subject-wise milestones, mock test scores, or weekly revision plans, **SuccessTracker** helps you stay on top of your preparation journey with ease.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features  
+- **Goal Management for JEE**: Set subject-specific goals (Physics, Chemistry, Mathematics) and track progress.  
+- **Performance Tracking**: Monitor your mock test scores and identify weak areas with visual insights.  
+- **Custom Study Plans**: Create and manage personalized daily or weekly study schedules.  
+- **Aesthetic UI**: Built with TailwindCSS to provide a clean and responsive interface for Gen Z students.  
+- **Next.js Integration**: Ensures fast performance, seamless navigation, and SEO optimization.  
 
-You can start editing the code in `src`. The page auto-updates as you edit the file.
+---
 
-To learn more, take a look at the following resources:
+## Technologies Used  
+- **Frontend**: React  
+- **Framework**: Next.js  
+- **Styling**: TailwindCSS  
 
-- [React Documentation](https://react.dev/) - learn about React
-- [TailwindCSS Documentation](https://tailwindcss.com/) - learn about TailwindCSS
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
+
+## Getting Started  
+
+Follow these steps to set up the development environment:  
+
+1. **Clone the repository:**  
+   ```bash  
+   git clone https://github.com/aryan6673/successtracker.git  
+Navigate to the project directory:
+
+bash
+Copy
+Edit
+cd successtracker  
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install  
+# or  
+yarn install  
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev  
+# or  
+yarn dev  
+# or  
+pnpm dev  
+# or  
+bun dev  
+Open the application:
+Open http://localhost:3000 in your browser to view the app.
+
+Resources for JEE Preparation
+React Documentation: Learn the basics of React.
+Next.js Documentation: Explore Next.js features and APIs.
+TailwindCSS Documentation: Style your projects with TailwindCSS.
+Contributing
+Contributions are welcome! Here's how you can help:
+
+Fork the repository.
+Create a new branch for your feature or bugfix.
+Commit your changes and push the branch.
+Submit a pull request.
